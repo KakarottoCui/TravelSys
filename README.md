@@ -27,4 +27,4 @@
 
 SSM框架就是：Spring + Spring MVC + MyBatis
 
-详询加QQ：821898835，专业程序设计、毕业设计
+详询QQ：821898835，微信：egvh56ufy7hh，承接商业项目和毕设
