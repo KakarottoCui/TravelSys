@@ -23,8 +23,5 @@
 
 9.数据分析...
 
-技术分析：
-
-SSM框架就是：Spring + Spring MVC + MyBatis
 
 详询QQ：821898835，承接商业项目和毕设
