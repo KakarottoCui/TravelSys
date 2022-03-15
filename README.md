@@ -1,5 +1,5 @@
 # TravelSys
-基于SSM框架的旅游系统旅游网设计
+基于SringBoot框架的旅游系统旅游网设计
 
 演示视频链接：https://live.csdn.net/v/181393
 
