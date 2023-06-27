@@ -1,7 +1,7 @@
 # TravelSys
 基于SringBoot框架的旅游系统旅游网设计
 
-演示视频链接：https://live.csdn.net/v/181393
+演示视频链接：https://www.bilibili.com/video/BV1Xk4y1j7q3
 
 功能模块：
 
